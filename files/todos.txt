@@ -1,0 +1,5 @@
+clean
+throw
+shower
+play
+fix

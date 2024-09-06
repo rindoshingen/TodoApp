@@ -1,3 +1,2 @@
 prepare
-Play soccer
 Fix the computer
